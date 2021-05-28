@@ -1,2 +1,2 @@
-# bubblesort
-Algortihms
+# HSC 2022
+Short Syllabus
